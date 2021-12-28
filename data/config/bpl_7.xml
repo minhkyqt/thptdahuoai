@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plan>
+  <id>7</id>
+  <lang></lang>
+  <title>Khối liên kết website</title>
+  <description>Upload banner liên kết website</description>
+  <form>sequential</form>
+  <width>280</width>
+  <height>180</height>
+  <banners>
+    <banners_item>
+      <id>5</id>
+      <title>vnedu</title>
+      <clid>1</clid>
+      <file_name>mang-gd-vn_1.jpg</file_name>
+      <imageforswf>mang-gd-vn.jpg</imageforswf>
+      <file_ext>jpg</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>254</file_width>
+      <file_height>104</file_height>
+      <file_alt></file_alt>
+      <file_click>https://vnedu.vn</file_click>
+      <target>_blank</target>
+      <bannerhtml></bannerhtml>
+      <publ_time>1640101001</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+    <banners_item>
+      <id>9</id>
+      <title>Thư viện Violet</title>
+      <clid>1</clid>
+      <file_name>thu-vien-violet_1.jpg</file_name>
+      <imageforswf>thu-vien-violet.jpg</imageforswf>
+      <file_ext>jpg</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>262</file_width>
+      <file_height>112</file_height>
+      <file_alt></file_alt>
+      <file_click>https://violet.vn/</file_click>
+      <target>_blank</target>
+      <bannerhtml></bannerhtml>
+      <publ_time>1640102509</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+    <banners_item>
+      <id>6</id>
+      <title>Tập huấn Etep</title>
+      <clid>1</clid>
+      <file_name>tap-huan-etep_1.png</file_name>
+      <imageforswf>tap-huan-etep.png</imageforswf>
+      <file_ext>png</file_ext>
+      <file_mime>image/png</file_mime>
+      <file_width>275</file_width>
+      <file_height>80</file_height>
+      <file_alt></file_alt>
+      <file_click>https://taphuan.csdl.edu.vn/</file_click>
+      <target>_blank</target>
+      <bannerhtml></bannerhtml>
+      <publ_time>1640101320</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+    <banners_item>
+      <id>7</id>
+      <title>Thi tốt nghiệp THPT</title>
+      <clid>1</clid>
+      <file_name>thi-tn-thpt_1.jpg</file_name>
+      <imageforswf>thi-tn-thpt.jpg</imageforswf>
+      <file_ext>jpg</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>381</file_width>
+      <file_height>113</file_height>
+      <file_alt></file_alt>
+      <file_click>http://thisinh.thithptquocgia.edu.vn/</file_click>
+      <target>_blank</target>
+      <bannerhtml></bannerhtml>
+      <publ_time>1640102164</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+    <banners_item>
+      <id>8</id>
+      <title>Cổng thông tin tuyển sinh</title>
+      <clid>1</clid>
+      <file_name>tuyen-sinh-bo-gd_1.jpg</file_name>
+      <imageforswf>tuyen-sinh-bo-gd.jpg</imageforswf>
+      <file_ext>jpg</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>393</file_width>
+      <file_height>100</file_height>
+      <file_alt></file_alt>
+      <file_click>https://thituyensinh.vn/</file_click>
+      <target>_blank</target>
+      <bannerhtml></bannerhtml>
+      <publ_time>1640102372</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+  </banners>
+</plan>

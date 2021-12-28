@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plan>
+  <id>5</id>
+  <lang></lang>
+  <title>Cuộc thi VCnet</title>
+  <form>sequential</form>
+  <width>800</width>
+  <height>200</height>
+  <banners>
+    <banners_item>
+      <id>4</id>
+      <title>Cuộc thi trắc nghiệm trên VCNET</title>
+      <clid>1</clid>
+      <file_name>vcnet.jpg</file_name>
+      <imageforswf>vcnet-mobile.jpg</imageforswf>
+      <file_ext>jpg</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>1200</file_width>
+      <file_height>200</file_height>
+      <file_alt></file_alt>
+      <file_click>https://vcnet.vn/contestcovid</file_click>
+      <target>_blank</target>
+      <bannerhtml></bannerhtml>
+      <publ_time>1639993800</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+  </banners>
+</plan>

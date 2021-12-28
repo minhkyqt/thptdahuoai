@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plan>
+  <id>8</id>
+  <lang></lang>
+  <title>Banner header</title>
+  <form>sequential</form>
+  <width>1200</width>
+  <height>180</height>
+  <banners>
+    <banners_item>
+      <id>10</id>
+      <title>Ngày quân đội nhân dân VN</title>
+      <clid>1</clid>
+      <file_name>ngay-quan-doi-vn.jpg</file_name>
+      <imageforswf></imageforswf>
+      <file_ext>jpg</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>1485</file_width>
+      <file_height>182</file_height>
+      <file_alt></file_alt>
+      <file_click></file_click>
+      <target>_blank</target>
+      <bannerhtml></bannerhtml>
+      <publ_time>1640135498</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+  </banners>
+</plan>

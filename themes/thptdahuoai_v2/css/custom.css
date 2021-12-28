@@ -1,0 +1,32 @@
+/**
+ * NukeViet Content Management System
+ * @version 4.x
+ * @author VINADES.,JSC <contact@vinades.vn>
+ * @copyright (C) 2009-2021 VINADES.,JSC. All rights reserved
+ * @license GNU/GPL version 2 or any later version
+ * @see https://github.com/nukeviet The NukeViet CMS GitHub project
+ */
+
+/* Các tùy chỉnh CSS của giao diện nên để vào đây */
+
+
+
+.section-header {
+    background-color: #ffff;
+}
+
+.wraper {
+    min-height: 45px;
+}
+
+.section-nav {
+    background-color: #ffff;
+}
+
+
+
+/* Focus */
+a:focus {
+    outline: 1px auto yellow;
+    outline-offset: -1px
+}
