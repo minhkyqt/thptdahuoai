@@ -1,0 +1,14 @@
+[Sun, 09 Jan 2022 16:51:37 +0700] [localhost] [::1] [User Notice(1024): SQLSTATE[HY000] [1044] Access denied for user 'b7b37ccf14d6e1'@'%' to database 'nukeviet_thptdahuoai'] [FILE: /vendor/vinades/nukeviet/Core/Database.php] [LINE: 94] [TRACE:]
+#1  LINE: 26    FILE: /index.php
+#2  LINE: 268   FILE: /includes/mainfile.php
+#3  LINE: 94    FILE: /vendor/vinades/nukeviet/Core/Database.php
+
+[Sun, 09 Jan 2022 16:51:37 +0700] [localhost] [::1] [User Error(256): Sorry! Could not connect to data server] [FILE: /includes/mainfile.php] [LINE: 273] [TRACE:]
+#1  LINE: 26    FILE: /index.php
+#2  LINE: 273   FILE: /includes/mainfile.php
+
+[Sun, 09 Jan 2022 16:54:54 +0700] [localhost] [::1] [Warning(2): exif_read_data(bg1.png): File not supported] [FILE: /vendor/vinades/nukeviet/Files/Upload.php] [LINE: 1122] [TRACE:]
+#1  LINE: 182   FILE: /admin/index.php
+#2  LINE: 71    FILE: /admin/upload/upload.php
+#3  LINE: 1122  FILE: /vendor/vinades/nukeviet/Files/Upload.php
+

@@ -13,12 +13,12 @@ if (!defined('NV_MAINFILE')) {
     exit('Stop!!!');
 }
 
-$db_config['dbhost'] = 'us-cdbr-east-05.cleardb.net';
+$db_config['dbhost'] = 'localhost';
 $db_config['dbport'] = '';
 $db_config['dbname'] = 'nukeviet_thptdahuoai';
 $db_config['dbsystem'] = 'nukeviet_thptdahuoai';
-$db_config['dbuname'] = 'b7b37ccf14d6e1';
-$db_config['dbpass'] = '5c39bf07';
+$db_config['dbuname'] = 'root';
+$db_config['dbpass'] = '';
 $db_config['dbtype'] = 'mysql';
 $db_config['collation'] = 'utf8mb4_unicode_ci';
 $db_config['charset'] = 'utf8mb4';
