@@ -413,12 +413,12 @@
 
     .wraper {
         width: 100%;
-        max-width: 1080px;
+        max-width: 1200px;
     }
 }
 
 @media (min-width: 1200px) {
     .wraper {
-        width: 1080px;
+        width: 1200px;
     }
 }

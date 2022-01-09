@@ -7,6 +7,7 @@
 		
         <div class="section-header-bar">
             <div class="wraper">
+
                 <nav class="header-nav">
                     <div class="header-nav-inner">
                         <div class="contactDefault">
@@ -23,6 +24,7 @@
                         <div class="bg"></div>
                     </div>
                 </nav>
+
             </div>
         </div>
 		-->
@@ -45,21 +47,23 @@
                         [HEAD_RIGHT]
                     </div>
                 </div>
+
             </div>
         </div>
     </header>
-    <div class="section-nav">
-        <div class="wraper">
+    <div class="section-nav">    
             <nav class="second-nav" id="menusite">
-                <div class="container">
-                    <div class="row">
-                        <div class="bg box-shadow">
-                            [MENU_SITE]
+               
+                   
+                        <div class="row">
+                            <div class="bg box-shadow">
+                                  <div class="wraper">
+                                         [MENU_SITE]
+                                    </div>
+                            </div>
                         </div>
-                    </div>
-                </div>
-            </nav>
-        </div>
+              
+            </nav>     
     </div>
     <div class="section-body">
         <div class="wraper">

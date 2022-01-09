@@ -13,12 +13,12 @@ if (!defined('NV_MAINFILE')) {
     exit('Stop!!!');
 }
 
-$db_config['dbhost'] = '127.0.0.1';
+$db_config['dbhost'] = 'us-cdbr-east-05.cleardb.net';
 $db_config['dbport'] = '';
 $db_config['dbname'] = 'nukeviet_thptdahuoai';
 $db_config['dbsystem'] = 'nukeviet_thptdahuoai';
-$db_config['dbuname'] = 'root';
-$db_config['dbpass'] = '';
+$db_config['dbuname'] = 'b7b37ccf14d6e1';
+$db_config['dbpass'] = '5c39bf07';
 $db_config['dbtype'] = 'mysql';
 $db_config['collation'] = 'utf8mb4_unicode_ci';
 $db_config['charset'] = 'utf8mb4';
@@ -28,7 +28,7 @@ $db_config['prefix'] = 'dh';
 $global_config['site_domain'] = '';
 $global_config['name_show'] = 0;
 $global_config['idsite'] = 0;
-$global_config['sitekey'] = '94d165bbfd7904cd522086ccd81211fd';// Do not change sitekey!
+$global_config['sitekey'] = '94d165bbfd7904cd522086ccd81211fd'; // Do not change sitekey!
 $global_config['hashprefix'] = '{SSHA512}';
 $global_config['cached'] = 'files';
 $global_config['session_handler'] = 'files';

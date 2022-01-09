@@ -4,7 +4,7 @@
  * NukeViet Content Management System
  * @version 4.x
  * @author VINADES.,JSC <contact@vinades.vn>
- * @copyright (C) 2009-2021 VINADES.,JSC. All rights reserved
+ * @copyright (C) 2009-2022 VINADES.,JSC. All rights reserved
  * @license GNU/GPL version 2 or any later version
  * @see https://github.com/nukeviet The NukeViet CMS GitHub project
  */
@@ -40,4 +40,4 @@ ini_set('session.cookie_httponly', '1');
 ini_set('session.gc_maxlifetime', '3600');
 ini_set('user_agent', 'NV4');
 
-$iniSaveTime = 1640656260;
+$iniSaveTime = 1641393911;

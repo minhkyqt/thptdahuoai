@@ -4,7 +4,7 @@
  * NukeViet Content Management System
  * @version 4.x
  * @author VINADES.,JSC <contact@vinades.vn>
- * @copyright (C) 2009-2021 VINADES.,JSC. All rights reserved
+ * @copyright (C) 2009-2022 VINADES.,JSC. All rights reserved
  * @license GNU/GPL version 2 or any later version
  * @see https://github.com/nukeviet The NukeViet CMS GitHub project
  */
@@ -107,7 +107,7 @@ $global_config['site_reopening_time'] = 0;
 $global_config['site_timezone'] = 'byCountry';
 $global_config['spadmin_add_admin'] = 1;
 $global_config['str_referer_blocker'] = 0;
-$global_config['timestamp'] = 1640533847;
+$global_config['timestamp'] = 1641264052;
 $global_config['two_step_verification'] = 0;
 $global_config['upload_alt_require'] = 1;
 $global_config['upload_auto_alt'] = 1;

@@ -8,13 +8,14 @@
  */
 
 .sliderwrapper {
-    height: 190px;
+    height: 280px;
     overflow: hidden;
     position: relative;
+    z-index: 1;
 }
 
 .sliderwrapper .contentdiv {
-    height: 190px;
+    height: 280px;
     left: 0;
     position: absolute;
     top: 0;
@@ -24,7 +25,7 @@
 
 .sliderwrapper .contentdiv img {
     border: 1px solid #dbe3e9;
-    height: 188px;
+    height: 280px;
     padding: 2px;
     width: 100%;
 }
